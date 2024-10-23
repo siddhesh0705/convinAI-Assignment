@@ -240,4 +240,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, email techsupport@example.com or create an issue in the repository.
+For support, email siddheshsangale0705@gmail.com or create an issue in the repository.
